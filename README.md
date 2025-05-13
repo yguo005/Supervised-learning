@@ -1,6 +1,4 @@
 # Supervised-learning
-# Foundations of AI - Assignment 2
-
 
 ## Assignment Overview
 
